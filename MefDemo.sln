@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefDemo", "MefDemo\MefDemo.csproj", "{90DDE7F7-23FF-4904-979C-A45AC379B042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefDemo.Contracts", "MefDemo.Contracts\MefDemo.Contracts.csproj", "{F0454BAC-E2D0-46FD-AB26-9BF3737CE00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefDemo.ImportLib", "MefDemo.ImportLib\MefDemo.ImportLib.csproj", "{BAB6D243-5B7C-44E3-AD9F-A1668F2FCD77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefDemo.ExportSumLib", "MefDemo.ExportSumLib\MefDemo.ExportSumLib.csproj", "{37C04495-DD19-4F7C-9737-FB619CD256D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefDemo.ExportMulLib", "MefDemo.ExportMulLib\MefDemo.ExportMulLib.csproj", "{022595E8-6F53-4215-966D-AEC974ADB505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefDemo.ExportDelLib", "MefDemo.ExportDelLib\MefDemo.ExportDelLib.csproj", "{A0DA41EF-FFD2-4E0B-B988-FA5FDEC3ECF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefDemoTest", "MefDemoTest\MefDemoTest.csproj", "{0FDD5CD2-B2FC-4EC3-BF1D-140B352F0365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DDE7F7-23FF-4904-979C-A45AC379B042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DDE7F7-23FF-4904-979C-A45AC379B042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DDE7F7-23FF-4904-979C-A45AC379B042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DDE7F7-23FF-4904-979C-A45AC379B042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0454BAC-E2D0-46FD-AB26-9BF3737CE00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0454BAC-E2D0-46FD-AB26-9BF3737CE00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0454BAC-E2D0-46FD-AB26-9BF3737CE00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0454BAC-E2D0-46FD-AB26-9BF3737CE00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB6D243-5B7C-44E3-AD9F-A1668F2FCD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB6D243-5B7C-44E3-AD9F-A1668F2FCD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB6D243-5B7C-44E3-AD9F-A1668F2FCD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB6D243-5B7C-44E3-AD9F-A1668F2FCD77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C04495-DD19-4F7C-9737-FB619CD256D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C04495-DD19-4F7C-9737-FB619CD256D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C04495-DD19-4F7C-9737-FB619CD256D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C04495-DD19-4F7C-9737-FB619CD256D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022595E8-6F53-4215-966D-AEC974ADB505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022595E8-6F53-4215-966D-AEC974ADB505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022595E8-6F53-4215-966D-AEC974ADB505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022595E8-6F53-4215-966D-AEC974ADB505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DA41EF-FFD2-4E0B-B988-FA5FDEC3ECF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DA41EF-FFD2-4E0B-B988-FA5FDEC3ECF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DA41EF-FFD2-4E0B-B988-FA5FDEC3ECF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DA41EF-FFD2-4E0B-B988-FA5FDEC3ECF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDD5CD2-B2FC-4EC3-BF1D-140B352F0365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDD5CD2-B2FC-4EC3-BF1D-140B352F0365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDD5CD2-B2FC-4EC3-BF1D-140B352F0365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDD5CD2-B2FC-4EC3-BF1D-140B352F0365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
