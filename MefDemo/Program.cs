@@ -3,9 +3,9 @@ using MefDemo.ImportLib;
 
 namespace MefDemo
 {
-    class Program
+    internal class Program
     {
-        static void Main()
+        private static void Main()
         {
             var importer = new Importer();
             importer.DoImport();

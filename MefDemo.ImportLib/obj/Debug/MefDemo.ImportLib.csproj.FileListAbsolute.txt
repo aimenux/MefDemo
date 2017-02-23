@@ -1,5 +1,0 @@
-G:\CODES\CSharp Projects\MefDemo\MefDemo\bin\Debug\MefDemo.ImportLib.dll
-G:\CODES\CSharp Projects\MefDemo\MefDemo\bin\Debug\MefDemo.ImportLib.pdb
-G:\CODES\CSharp Projects\MefDemo\MefDemo.ImportLib\obj\Debug\MefDemo.ImportLib.csprojResolveAssemblyReference.cache
-G:\CODES\CSharp Projects\MefDemo\MefDemo.ImportLib\obj\Debug\MefDemo.ImportLib.dll
-G:\CODES\CSharp Projects\MefDemo\MefDemo.ImportLib\obj\Debug\MefDemo.ImportLib.pdb
